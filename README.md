@@ -10,8 +10,8 @@ Introduction: Basic shell written in C which works in fork, exec manner with som
 
 To execute the program, gcc compiler must be installed on your computer. (gcc-13 is preferred for this project, it might be changed with gcc in the makefile.)
 
-The program will be executed with the following commands:
 
+The program will be executed with the following commands:
 make
 ./myshell
 

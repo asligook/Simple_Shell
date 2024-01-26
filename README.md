@@ -1,5 +1,7 @@
 # Simple_Shell
 Introduction: Basic shell written in C which works in fork, exec manner with some additional functionalities: 
+
+
 bello : Command that displays informationn about the username, number of processes etc.
 >>> : Operator that redirects the reversed stdout to a textfile.
 

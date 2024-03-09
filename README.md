@@ -1,13 +1,13 @@
 # Simple_Shell
-Introduction: Basic shell written in C which works in fork, exec manner with some additional functionalities: 
+**Introduction**: Basic shell written in C which works in fork, exec manner with some additional functionalities: 
 
 
-"bello" : Command that displays information about the username, number of processes etc.
+- "bello" : Command that displays information about the username, number of processes etc.
 
-">>>" : Operator that redirects the reversed stdout to a textfile.
+- ">>>" : Operator that redirects the reversed stdout to a textfile.
 
 
-
+**Execution**:
 To execute the program, gcc compiler must be installed on your computer. (gcc-13 is preferred for this project, it might be changed with gcc in the makefile.)
 
 
